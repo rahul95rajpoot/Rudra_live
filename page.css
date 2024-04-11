@@ -294,7 +294,7 @@ p {
 .overview .image-container img {
   flex: 1;
   max-width: 50%;
-  filter: blur(5px);
+  filter: blur(10px);
   height: auto;
   border-radius: 10px;
   padding: 10px;
